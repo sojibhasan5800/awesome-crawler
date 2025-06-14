@@ -5,7 +5,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 
 - [Python](#python)
 - [Java](#java)
-- [C#](#c)
+- [C++](#c)
 - [JavaScript](#javascript)
 - [PHP](#php)
 - [C++](#c-1)
