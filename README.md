@@ -3,7 +3,7 @@ A collection of awesome web crawler,spider and resources in different languages.
 
 ## Contents
 wrong waring
-- [Python](#python)
+- [Python](#gaso)
 - [Java](#java)
 - [C#](#c)
 - [JavaScript](#javascript)
